@@ -1,0 +1,39 @@
+<xml version="1.0" standalone="true"?>
+<NewDataSet>
+	<Table0>
+	<20.02.2019>
+		< pompki >
+			< pół-pompki >10< /pół-pompki>
+			< pompki pełne >10< /pompki pełne>
+		< /pompki >
+		< podnoszenie sztangi >
+			< sztanga 50kg >10< /sztanga 50kg>
+			< sztanga 100kg >10< /sztanga 100kg>
+		< /podnoszenie sztangi >
+	< /20.02.2019 >
+	</Table0>
+	<Table1>
+	<21,02,2019>
+		< pompki >
+			< pół-pompki >20< /pół-pompki>
+			< pompki pełne >20< /pompki pełne>
+		< /pompki >
+		< podnoszenie sztangi >
+			< sztanga 50kg >< /sztanga 50kg>
+			< sztanga 100kg >< /sztanga 100kg>
+		< /podnoszenie sztangi >
+	< /21,02,2019 >
+	</Table1>
+	<Table2>
+	<22.02.2019>
+		< pompki >
+			< pół-pompki >< /pół-pompki>
+			< pompki pełne >< /pompki pełne>
+		< /pompki >
+		< podnoszenie sztangi >
+			< sztanga 50kg >20< /sztanga 50kg>
+			< sztanga 100kg >20< /sztanga 100kg>
+		< /podnoszenie sztangi >
+	< /22.02.2019 >
+	</Table2>
+</NewDataSet>

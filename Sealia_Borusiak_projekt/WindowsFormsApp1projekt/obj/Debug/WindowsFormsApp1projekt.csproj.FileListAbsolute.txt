@@ -1,0 +1,13 @@
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\bin\Debug\WindowsFormsApp1projekt.exe.config
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\bin\Debug\WindowsFormsApp1projekt.exe
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\bin\Debug\WindowsFormsApp1projekt.pdb
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.csprojAssemblyReference.cache
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.Properties.Resources.resources
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.csproj.GenerateResource.cache
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.csproj.CoreCompileInputs.cache
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.exe
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.pdb
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.Form2.resources
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.Form3.resources
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.Form1.resources
+C:\Users\Sealia\Desktop\WindowsFormsApp1projekt\WindowsFormsApp1projekt\obj\Debug\WindowsFormsApp1projekt.Form4.resources
